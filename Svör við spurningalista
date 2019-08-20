@@ -1,0 +1,3 @@
+1. Game loop er hvernig við forritum línulegan tíma(röð aðgerða) í leikjum. Þegar leikurinn er keyrður er í raun sett í gang while loop-u.
+2. Leikjavélar er hugbúnaður sem notaður er til þess að búa til tölvuleiki, leikjavélar geta verið sérsniðaðar í eina tegund af leikjum(t.d. Clausewitz Enginge eftir Paradox Studios), eða verið sérsniðaðar í einhver umhverfi, eins og 3d eða 2d forritun, eða jafnvel sýndarveruleikaforritun.
+3. Hlutir í tölvuleikjum eru ávalt með hnit og hæð/width(eða x/y/z í þrívíddar umhverfi), þessi hnit segja til um staðsetningu hlutar í eins konar matrixa. Þegar hnit tveggja hluta skarast á við hvort annað er augljóst að þessir tveir hlutir séu að snertast.
